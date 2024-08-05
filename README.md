@@ -118,6 +118,6 @@ int main()
 ```
 ## Output:
 
-
+![exp5](https://github.com/ashuydv-05/Experiment-05/blob/main/5th%20f.png)
 ## Conclusion:
 We learnt about conditional statements which include if else, else if and nested conditional statements and switch case and their use case.
